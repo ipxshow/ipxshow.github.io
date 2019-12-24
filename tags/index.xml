@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 学而不知道，与不学同；知而不能行，与不知同。</title>
-    <link>ipxshow.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on 学而不知道，与不学同；知而不能行，与不知同。</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 24 Dec 2019 15:48:58 +0800</lastBuildDate>
     
-	<atom:link href="ipxshow.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>vim</title>
-      <link>ipxshow.github.io/tags/vim/</link>
+      <link>/tags/vim/</link>
       <pubDate>Tue, 24 Dec 2019 15:48:58 +0800</pubDate>
       
-      <guid>ipxshow.github.io/tags/vim/</guid>
+      <guid>/tags/vim/</guid>
       <description></description>
     </item>
     
