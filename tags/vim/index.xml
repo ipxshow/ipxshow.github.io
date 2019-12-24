@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vim on 学而不知道，与不学同；知而不能行，与不知同。</title>
+    <link>/tags/vim/</link>
+    <description>Recent content in vim on 学而不知道，与不学同；知而不能行，与不知同。</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 24 Dec 2019 15:48:58 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>入门Vim之增删改查</title>
+      <link>/posts/vim-curd/</link>
+      <pubDate>Tue, 24 Dec 2019 15:48:58 +0800</pubDate>
+      
+      <guid>/posts/vim-curd/</guid>
+      <description>vim中的增删改查 增  进入插入模式，进行编辑文本
+  a 在当前光标的后边开始插入 i 在当前光标处开始插入 o 在当前行下边开始插入 O 在当前行的上边插入 I 在当前行的开始处插入  删 normal模式  x删除光标后边的一个字符 dw删除当前光标所在的一个单词（daw）（默认代表daw） dd删除一整行 daw删除单词包括周围的空格 diw删除单词但是不包括周围的空格 dt`+`&#39;删除单引号中的内容 dt`+`&amp;quot;删除双引号中的内容 d`+`0快速删除到当前光标到行首 d`+`$快速删除当前光标到行尾 数字+dd快速向下删除几行 数字+&#39;x&#39;快速删除几个字符  改  常用的三个 r(replace)`,c(change),s(substitute)`
+normal模式下r替换一个字符。s替换并进入插入模式
+c文本对象，进行快速修改
+  r R不断的替换后边的字符 s替换并进入插入模式，有点像删除当前字符并且进入插入模式 S删除所有字符并进入插入模式 数字+s删除几个数字并进入插入模式 c删除并且进入插入模式 C删除整行并进入插入模式  查  查询文档中的内容
+  /向后查询 ?向前查询 n查询回车后按n键跳到下一个匹配的内容 N查询回车后按N键跳到上一个匹配的内容 *向后匹配当前单词 # 向前匹配当前单词  </description>
+    </item>
+    
+  </channel>
+</rss>
