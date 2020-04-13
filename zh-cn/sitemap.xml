@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/zh-cn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="/zh-cn/"
+                />
+  </url>
+  
+  <url>
     <loc>/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -27,20 +41,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="/zh-cn/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh-cn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/"
                 />
   </url>
   
