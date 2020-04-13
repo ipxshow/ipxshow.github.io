@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-04-13T12:52:14+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/manjaro/</loc>
     <lastmod>2020-04-13T12:52:14+08:00</lastmod>
   </url>
@@ -19,11 +24,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-04-13T12:52:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-04-13T12:52:14+08:00</lastmod>
   </url>
   
