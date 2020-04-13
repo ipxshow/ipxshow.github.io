@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>manjaro on 学而不知道，与不学同；知而不能行，与不知同。</title>
+    <link>/tags/manjaro/</link>
+    <description>Recent content in manjaro on 学而不知道，与不学同；知而不能行，与不知同。</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 13 Apr 2020 12:52:14 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/manjaro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Manjaro_config美化及软件安装</title>
+      <link>/posts/manjaro_config/</link>
+      <pubDate>Mon, 13 Apr 2020 12:52:14 +0800</pubDate>
+      
+      <guid>/posts/manjaro_config/</guid>
+      <description>软件 电子书阅读Calibre yay -S calibre deepin截图 yaourt deepin-screenshot freecad机械制图 pacman -S freecad 搜狗输入法 yaourt -S fcitx sudo pacman -S fcitx-im #默认全部安装 sudo pacman -S fcitx-configtool sudo pacman -S fcitx-sogoupinyin # 如果出现要删除.config/sogoupin,则选择qt4的安装方式 yaourt -S fcitx-qt4 sudo echo -e &amp;#34;export GTK_IM_MODULE=fcitx\nexport QT_IM_MODULE=fcitx\nexport XMODIFIERS=@im=fcitx&amp;#34;&amp;gt;&amp;gt;~/.xprofile ＃https://blog.csdn.net/kfeng632/article/details/90513211 微信 deepin-wine-wehcat
+yay -S deepin-wine-wechat qq yaourt -S deepin.com.qq.office 迅雷 yaourt -S deepin.com.qq.office telegram yay -S telegram 梯子 shadowsocks shadowsocks-qt5
+sudo pacman -U shadowsocks-qt5-3.0.1-1-x86_64.pkg.tar.xz
+eletron-ssr 项目估计请去喝茶了，备份地址
+下载.pacman的文件
+sudo pacman -U electron-ssr.</description>
+    </item>
+    
+  </channel>
+</rss>
